@@ -8,6 +8,10 @@ A simple React application that demonstrates how to use the **React Context API*
 
 ---
 
+View the deployed theme switcher app:  
+🔗 [https://mdoaa.github.io/theme-switcher/](https://mdoaa.github.io/theme-switcher/)
+---
+
 ## 🚀 Features
 
 - 🔄 Toggle between light and dark themes
